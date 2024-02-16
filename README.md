@@ -23,3 +23,8 @@
 1. Run `Track_and_count/track_and_count_kaggle.ipynb` on kaggle
 2. get generated file link at the end and copy it
 3. using `kaglle_to_colab_to_drive.ipynb` on colab copy and upload them (output video) directly to the google drive
+
+## Pose Estimation on human hands
+1. Run `Pose-estimation/pose-estimation-kaggle.ipynb` on kaggle
+2. get generated file link at the end and copy it
+3. using `kaglle_to_colab_to_drive.ipynb` on colab copy and upload them (output video) directly to the google drive
