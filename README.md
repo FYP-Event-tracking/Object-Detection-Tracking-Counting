@@ -29,7 +29,7 @@
 2. get generated file link at the end and copy it
 3. using `kaglle_to_colab_to_drive.ipynb` on colab copy and upload them (output video) directly to the google drive
 
-## Segmentation on human hands
+## Segmentation on boxes
 1. Run `Segmentation/segmentation-model-kaggle.ipynb` on kaggle
 2. get generated file link at the end and copy it
 3. using `kaglle_to_colab_to_drive.ipynb` on colab copy and upload them (output video) directly to the google drive
